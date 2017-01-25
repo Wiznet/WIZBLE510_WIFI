@@ -10,6 +10,20 @@ Using WIZnet Wi-Fi Module Wizfi310 and the Nordic BLE SoC nRF52832 implemented t
 
 ![H/W Setting](http://wiznetmuseum.com/wp/wp-content/uploads/2017/01/WIZBLE510_HW_Setting.png "H/W Setting")
 
+## Refernce
+### Wizfi310 AT Command list
+http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310pg:start
+
+### Used Command
++++ : Exit Data Mode   *In data mode, all UART data is transmitted as Wi-Fi.<br>
+AT+WLEAVE : WiFi Disassociation <br>
+AT+WNET : Network Configuration<br>
+AT+WSET : Wi-Fi Configuration<br>
+AT+WSEC : Wi-Fi Security Configuration<br>
+AT+WJOIN : Wi-Fi Association<br>
+AT+SCON : Socket Open/Connect<br>
+
+
 ## Testing
 
 ### Network Setting
@@ -32,17 +46,4 @@ Open Hercules or TCP server tool. Port is set to 5000 in the TCP Server tab and 
 ### Data Input
 You can see that Ble peripheral Data goes to TCP Server.
 ![Data Input](http://wiznetmuseum.com/wp/wp-content/uploads/2017/01/WIZBLE510_Result.png "Data Input")
-
-
-### Wizfi310 AT Command list
-http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310pg:start
-
-### Used Command
-+++ : Exit Data Mode   *In data mode, all UART data is transmitted as Wi-Fi.
-AT+WLEAVE : WiFi Disassociation 
-AT+WNET : Network Configuration
-AT+WSET : Wi-Fi Configuration
-AT+WSEC : Wi-Fi Security Configuration
-AT+WJOIN : Wi-Fi Association
-AT+SCON : Socket Open/Connect
 
