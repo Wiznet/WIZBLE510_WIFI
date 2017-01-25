@@ -39,7 +39,7 @@ http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310pg:start
 
 ### Used Command
 +++ : Exit Data Mode   *In data mode, all UART data is transmitted as Wi-Fi.
-AT+WLEAVE : WiFi Disassociation
+AT+WLEAVE : WiFi Disassociation 
 AT+WNET : Network Configuration
 AT+WSET : Wi-Fi Configuration
 AT+WSEC : Wi-Fi Security Configuration
