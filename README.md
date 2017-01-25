@@ -11,6 +11,12 @@ Using WIZnet Wi-Fi Module Wizfi310 and the Nordic BLE SoC nRF52832 implemented t
 ![H/W Setting](http://wiznetmuseum.com/wp/wp-content/uploads/2017/01/WIZBLE510_HW_Setting.png "H/W Setting")
 
 ## Reference
+### nRF52832 Datasheet
+http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52832_ps.html?cp=2_2_0
+
+### Wizfi310 Datasheet
+http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310ds:start
+
 ### Wizfi310 AT Command list
 http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310pg:start
 
