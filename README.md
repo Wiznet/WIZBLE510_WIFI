@@ -14,6 +14,9 @@ Using WIZnet Wi-Fi Module Wizfi310 and the Nordic BLE SoC nRF52832 implemented t
 ### nRF52832 Datasheet
 http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52832_ps.html?cp=2_2_0
 
+### nRF5 SDK 12.2.0
+http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.sdk5.v12.2.0/index.html?cp=4_0_1
+
 ### Wizfi310 Datasheet
 http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310ds:start
 
