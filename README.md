@@ -36,7 +36,7 @@ Open the project.
 \...\WIZBLE510_Wizfi310_Release_1\nRF5_SDK_12.2.0_Wizfi310\examples\ble_central\ble_app_uart_c\pca10040\s132
 Open WizFi310_config.h. Setting SSID, AP password, Server IP, Server Port
 
-![WizFi310_config.h](http://wiznetmuseum.com/wp/wp-content/uploads/2017/01/WIZBLE510_HW_Setting1.png "WizFi310_config.h")
+![WizFi310_config.h](http://wiznetmuseum.com/wp/wp-content/uploads/2017/01/WIZBLE510_config.png "WizFi310_config.h")
 
 ### TCP Server
 Open Hercules or TCP server tool. Port is set to 5000 in the TCP Server tab and click on the listen.
