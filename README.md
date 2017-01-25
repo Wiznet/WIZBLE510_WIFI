@@ -15,14 +15,13 @@ Using WIZnet Wi-Fi Module Wizfi310 and the Nordic BLE SoC nRF52832 implemented t
 http://wizwiki.net/wiki/doku.php?id=products:wizfi310:wizfi310pg:start
 
 ### Used Command
-+++ : Exit Data Mode   *In data mode, all UART data is transmitted as Wi-Fi.<br>
-AT+WLEAVE : WiFi Disassociation <br>
-AT+WNET : Network Configuration<br>
-AT+WSET : Wi-Fi Configuration<br>
-AT+WSEC : Wi-Fi Security Configuration<br>
-AT+WJOIN : Wi-Fi Association<br>
-AT+SCON : Socket Open/Connect<br>
-<strong>abc</strong>
+<strong>+++</strong> : Exit Data Mode   *In data mode, all UART data is transmitted as Wi-Fi.<br>
+<strong>AT+WLEAVE</strong> : WiFi Disassociation <br>
+<strong>AT+WNET</strong> : Network Configuration<br>
+<strong>AT+WSET</strong> : Wi-Fi Configuration<br>
+<strong>AT+WSEC</strong> : Wi-Fi Security Configuration<br>
+<strong>AT+WJOIN</strong> : Wi-Fi Association<br>
+<strong>AT+SCON</strong> : Socket Open/Connect<br>
 
 ## Testing
 
